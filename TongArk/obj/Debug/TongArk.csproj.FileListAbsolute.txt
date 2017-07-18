@@ -98,3 +98,6 @@ D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\TongArk\obj\Debug
 D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\TongArk\obj\Debug\TongArk.g.resources
 D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\TongArk\obj\Debug\TongArk.Properties.Resources.resources
 D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\TongArk\obj\Debug\TongArk.csproj.GenerateResource.Cache
+D:\Alexey\GitHub\TongArk\TongArk\bin\Debug\TongArk.exe.config
+D:\Alexey\GitHub\TongArk\TongArk\obj\Debug\TongArk.exe
+D:\Alexey\GitHub\TongArk\TongArk\obj\Debug\TongArk.pdb
