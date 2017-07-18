@@ -1,0 +1,94 @@
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_world310.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_world310.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+C:\Users\LLM\Desktop\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcp120.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\msvcr120.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_world310.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcp120.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\msvcr120.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_world310.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojResolveAssemblyReference.cache
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+H:\Alexey\Visual Studio 2015\Cognitive-Samples-VideoFrameAnalysis-master\Windows\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojResolveAssemblyReference.cache
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.pdb
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.pdb
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.pdb
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.pdb
+H:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x86\opencv_ffmpeg320.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\dll\x64\opencv_ffmpeg320_64.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\VideoFrameAnalyzer.pdb
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\Newtonsoft.Json.xml
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.pdb
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.xml
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.pdb
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Blob.xml
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.dll
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.pdb
+D:\Alexey\Visual Studio 2012\Tongariro_Emotion_with_Camera_WPF\VideoFrameAnalyzer\obj\Debug\VideoFrameAnalyzer.csprojResolveAssemblyReference.cache
