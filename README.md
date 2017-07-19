@@ -4,33 +4,3 @@ The human agent controls the software agent’s performance by means of some cha
 The system design combines Affective Computing, GAs, and machine listening. 
 
 You need a web-camera for human agent face recogntion and a mic for human agent sound capture.
-
-
-
-
-The structure of sound patterns file (temporally for today) should be as followed:
-
-
-
-[duration]      // key word, don't change
-
-
-40              // not important, now never used
-
-
-[directories]   // key word, don't change
-
-
-14           	// important: name of a directory inside Sound Elements folder where sound files have been stored
-
-
-14            	// important: name of a directory inside Sound Elements folder where sound files have been stored
-
-
-14              // important: name of a directory inside Sound Elements folder where sound files have been stored
-
-
-[blank space]   // just blank space
-
-
-Later I'll change it to xml file structure or something.
